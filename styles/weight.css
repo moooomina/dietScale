@@ -13,7 +13,7 @@ ul li input {
     border-radius:5px; padding:10px;
 }
 ul li:nth-child(2) input {width:370px;}
-ul li:nth-child(3) input {width:385px;}
+ul li:nth-child(3) input {width:385px; border:none;}
 button {
     margin:10px 10px; padding:10px 210px; font-size: 1.2rem;
     background-color:lightblue; color:navy; font-weight:600;
